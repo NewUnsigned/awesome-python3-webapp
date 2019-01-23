@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/zhaopeng/anaconda3/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.autoComplete.addBrackets": true,
+}
